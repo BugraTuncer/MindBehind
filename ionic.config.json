@@ -1,0 +1,7 @@
+{
+  "name": "MindBehind",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
