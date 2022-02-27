@@ -18,7 +18,7 @@ FE Ionic React project that will do the following:
 
 to start with in server node index.js
 
-then in client
+then in project
 
 1-) npx cap add ios
 2-) npx cap open ios
